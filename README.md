@@ -43,7 +43,7 @@ The package **foleys_gui_magic** is imported in order to provide all the functio
 </p>
 
 ## Authors 
-- Lelio Casale
-- Marco Furio Colombo
-- Marco Muraro
-- Matteo Pettenò
+- [Lelio Casale](https://github.com/Leliocasale) 
+- [Marco Furio Colombo](https://github.com/FurioColombo)
+- [Marco Muraro](https://github.com/marcomuraro4)
+- [Matteo Pettenò](https://github.com/mpetteno-polimi)
