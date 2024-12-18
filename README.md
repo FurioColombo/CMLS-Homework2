@@ -41,3 +41,9 @@ The package **foleys_gui_magic** is imported in order to provide all the functio
 <p align="center">
   <img width="600" height=auto src="./Assets/graphs/Signal_Flow_Diagram.png">
 </p>
+
+## Authors 
+- Lelio Casale
+- Marco Furio Colombo
+- Marco Muraro
+- Matteo Pettenò
